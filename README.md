@@ -1,3 +1,5 @@
+# Directional Effect Stability and Multimodal Stacking
+
 This repository contains MATLAB code for Directional Effect Stability (DES) feature selection, multimodal stacking, model evaluation, and visualization for conversion prediction in individuals at clinical high risk (CHR) for psychosis.
 
 ## Code overview
