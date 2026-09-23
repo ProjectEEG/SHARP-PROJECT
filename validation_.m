@@ -41,7 +41,7 @@ final_models = struct();
 fprintf('=== 开始堆叠泛化 (Stacked Generalization) ===\n');
 
 % 【关键步骤 1】预先生成固定的 CV 划分结构
-n_repeats = 10; 
+n_repeats = 5; 
 n_folds = 5;
 cv_partitions = cell(n_repeats, 1);
 for r = 1:n_repeats
